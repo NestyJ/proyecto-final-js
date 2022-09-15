@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 1540,
+      "id": 1,
+      "title": "Paneles Triangulares",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_836942-MLA43192333507_082020-O.webp"
+    },
+    {
+      "precio": 2000,
+      "id": 2,
+      "title": "Paneles Hexagonales",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_627782-MLA51433142133_092022-F.webp"
+    },
+    {
+      "precio": 2500,
+      "id": 3,
+      "title": "Paneles Cuadrados",
+      "thumbnailUrl": "https://cdn.ipadizate.com/2019/11/IMG_0893.jpg?width=1200"
+    },
+    {
+      "precio": 4000,
+      "id": 4,
+      "title": "Cartel Neon Led",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_879531-MLA46773438643_072021-F.webp"
+    },
+    {
+      "precio": 6500,
+      "id": 5,
+      "title": "Cubo Luminoso",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_699995-MLA49278811782_032022-O.webp"
+    },
+    {
+      "precio": 18000,
+      "id": 6,
+      "title": "Esquineros Led",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_632951-MLA50629198060_072022-O.webp"
+    }
+  ]
